@@ -47,19 +47,7 @@ img {
   user-select: none;
 }
 
-.paper.heart::after {
-  content: "";
  
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-size: 150px;
-  background-position: center center;
-  background-repeat: no-repeat;
-  opacity: 0.6;
-}
 
 p {
   font-family: 'Zeyada';
